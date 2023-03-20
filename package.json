@@ -11,26 +11,7 @@
     "build:cjs": "tsc --module commonjs --outDir lib/cjs",
     "publish": "yarn build && npm publish --access public"
   },
-  "keywords": [
-    "react-native",
-    "react-component",
-    "react-native-component",
-    "react",
-    "react",
-    "native",
-    "ios",
-    "android",
-    "ui",
-    "date",
-    "date",
-    "range",
-    "date",
-    "picker",
-    "date",
-    "range",
-    "picker"
-  ],
-  "author": "Dileepa Chandima",
+
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/dilipchandima/rn-date-range-picker/issues"
@@ -47,6 +28,6 @@
     "moment": "^2.29.1"
   },
   "files": [
-    "/lib"
+    "./lib"
   ]
 }

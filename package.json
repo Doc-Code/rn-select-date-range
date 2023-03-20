@@ -40,7 +40,10 @@
     "url": "https://github.com/dilipchandima/rn-date-range-picker/issues"
   },
   "homepage": "https://github.com/dilipchandima/rn-date-range-picker#readme",
- 
+  "peerDependencies": {
+    "react": "18",
+    "react-native": "0.69"
+  },
   "devDependencies": {
     "@types/react": "^18",
     "@types/react-native": "^0.70",

@@ -11,10 +11,6 @@
     "build:cjs": "tsc --module commonjs --outDir lib/cjs",
     "publish": "yarn build && npm publish --access public"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dilipchandima/rn-date-range-picker.git"
-  },
   "keywords": [
     "react-native",
     "react-component",

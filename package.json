@@ -40,11 +40,11 @@
     "url": "https://github.com/dilipchandima/rn-date-range-picker/issues"
   },
   "homepage": "https://github.com/dilipchandima/rn-date-range-picker#readme",
-
+ 
   "devDependencies": {
     "@types/react": "^18",
-    "@types/react-native": "^0.69.6",
-    "metro-react-native-babel-preset": "^0.69.6",
+    "@types/react-native": "^0.70",
+    "metro-react-native-babel-preset": "^0.70",
     "typescript": "^4.3.4"
   },
   "dependencies": {
